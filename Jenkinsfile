@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/bitcse6c/1BI22CS148-gradle.git'
+                git branch: 'master', url: 'github.com/srivallabha01/shar.git'
             }
         }
 
